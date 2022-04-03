@@ -1,3 +1,21 @@
+# Create React App
+
+Create new  folder and open that folder
+
+Shift+Right Click open powershell for windows here
+
+type code .
+
+Then for crate new app 
+
+npx create-react-app softlight
+
+## Install react bootstrap
+
+The best way to consume React-Bootstrap is via the npm package which you can install with npm (or yarn if you prefer).
+
+npm install react-bootstrap bootstrap
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
