@@ -37,7 +37,7 @@ You may also see any lint errors in the console.
 
 Create a components folder
 
-### Header.js
+## Header.js
 
 import React from 'react'
 const Header = () => {
@@ -52,7 +52,7 @@ const Header = () => {
 }
 export default Header
 
-### Footer.js
+## Footer.js
 
 import React from 'react'
 
