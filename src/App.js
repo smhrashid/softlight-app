@@ -8,7 +8,7 @@ const App = () => {
     <>
       <Header />
       <main>
-        <Container><h1>fdgdfgdfgd</h1></Container>
+        <Container><h1>Main Body</h1></Container>
       </main>
       <Footer />
     </>
